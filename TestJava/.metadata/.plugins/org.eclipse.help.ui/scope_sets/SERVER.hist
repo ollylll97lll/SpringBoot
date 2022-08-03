@@ -1,0 +1,6 @@
+#Tue Jul 12 14:25:39 ICT 2022
+__DEFAULT__=false
+expression=SERVER
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true

@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1> U HITTIN ${param.jimask ?: "NOTHING"} ? U R CRAZY</h1>
+</body>
+</html>

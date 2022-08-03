@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Dang",
+        "lastName": "Quoc Anh",
+        "email": "anhdq12122000@gmail.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Giang",
+        "lastName": "Thanh Dinh",
+        "email": "dinh.thanhgiang@amaris.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Truong",
+        "lastName": "Quang Tu",
+        "email": "tu.truongquang@amaris.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Vo",
+        "lastName": "Xuan Hoa",
+        "email": "hoa.xuanvo@amaris.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Dang",
+        "lastName": "Quoc Anh 2",
+        "email": "whisper4shot1kill@gmail.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Dang",
+        "lastName": "Quoc Anh 3",
+        "email": "anhDQGCS18531@fpt.edu.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Sample",
+        "lastName": "Name 001",
+        "email": "sampleemail1@gmail.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Sample",
+        "lastName": "Name 002",
+        "email": "sampleemail2@gmail.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Sample",
+        "lastName": "Name 003",
+        "email": "sampleemail3@gmail.com",
+        "phone": "0902451468"
+    },
+    {
+        "firstName": "Sample",
+        "lastName": "Name 004",
+        "email": "sampleemail4@gmail.com",
+        "phone": "0902451468"
+    }
+]

@@ -1,0 +1,5 @@
+package com.springmvc.demo.mvc;
+
+public class CheckUrJimController {
+
+}

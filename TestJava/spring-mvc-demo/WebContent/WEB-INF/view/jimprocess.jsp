@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1> U HITTIN ${param.jimask} ? U R CRAZY</h1>
+	
+	
+	<h2>${hittinPost}</h2>
+</body>
+</html>

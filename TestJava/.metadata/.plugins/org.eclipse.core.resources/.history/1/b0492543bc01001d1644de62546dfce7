@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<form action="jimprocess" method="GET">
+		<input type="text" name="jimask" placeholder="Where u hittin 2day boiz ?"/>
+		
+		<input type="submit"/>
+	</form>
+</body>
+</html>

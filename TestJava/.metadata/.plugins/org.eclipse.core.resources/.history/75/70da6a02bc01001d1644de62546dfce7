@@ -1,0 +1,17 @@
+package com.springmvc.demo.mvc;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class CheckUrJimController {
+	 @RequestMapping("/jimform")
+	 public String JimForm() {
+		 return "jimform";
+	 }
+	 @RequestMapping("/jimprocess")
+	 public String JimProcess() {
+		 return "jimprocess";
+	 }
+	 
+}
